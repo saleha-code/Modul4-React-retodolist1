@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Modul4-React-retodolist1/static/css/main.0187a442.chunk.css",
+    "main.js": "/Modul4-React-retodolist1/static/js/main.74a08114.chunk.js",
+    "main.js.map": "/Modul4-React-retodolist1/static/js/main.74a08114.chunk.js.map",
+    "runtime-main.js": "/Modul4-React-retodolist1/static/js/runtime-main.cce5308a.js",
+    "runtime-main.js.map": "/Modul4-React-retodolist1/static/js/runtime-main.cce5308a.js.map",
+    "static/js/2.fe05a615.chunk.js": "/Modul4-React-retodolist1/static/js/2.fe05a615.chunk.js",
+    "static/js/2.fe05a615.chunk.js.map": "/Modul4-React-retodolist1/static/js/2.fe05a615.chunk.js.map",
+    "index.html": "/Modul4-React-retodolist1/index.html",
+    "static/css/main.0187a442.chunk.css.map": "/Modul4-React-retodolist1/static/css/main.0187a442.chunk.css.map",
+    "static/js/2.fe05a615.chunk.js.LICENSE.txt": "/Modul4-React-retodolist1/static/js/2.fe05a615.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cce5308a.js",
+    "static/js/2.fe05a615.chunk.js",
+    "static/css/main.0187a442.chunk.css",
+    "static/js/main.74a08114.chunk.js"
+  ]
+}
